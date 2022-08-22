@@ -15,7 +15,7 @@
   
 ### 📚 Tech Stack 📚
 
-제가 사용해본 경험이 있는 언어 / 기술 입니다.
+사용해본 경험이 있는 언어 / 기술 입니다.
 <br><br>
 <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white">
 <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">
