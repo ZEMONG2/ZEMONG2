@@ -6,7 +6,7 @@
 ## ✨About Me✨
 
 ### Hi there 👋 
-  #### My name is JaeYeol yuh.  I am 32 years old.
+  #### My name is JaeYeol Yuh.  I am 32 years old.
   #### I want to be a great back-end developer
 
 
