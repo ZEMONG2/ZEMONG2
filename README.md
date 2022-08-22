@@ -34,7 +34,9 @@
 <img src="https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
 <img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white">
 <img src="https://img.shields.io/badge/bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white">
-<br><br><br><br><br><br>
+<br>
+  ###![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zerosole0@gmail.com&show_icons=true&theme=radical)
+  <br><br><br><br><br>
 
 
 
